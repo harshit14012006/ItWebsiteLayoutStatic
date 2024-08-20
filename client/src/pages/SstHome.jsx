@@ -135,7 +135,7 @@ function SstHome() {
     },
     {
       text: "The team’s expertise and dedication were instrumental in meeting our project these are for thire aspects of improving the some an & when requirement arises",
-      author: "Client 4a",
+      author: "Client 4",
     },
   ];
 

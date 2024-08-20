@@ -31,7 +31,7 @@ function SoftwareDevelopment() {
               <hr className="my-4 border-t-2 border-gray-300" />
               We have demonstrated our abilities in delivering customized applications using cutting-edge technologies. Our customer-oriented approach enables us to deliver optimal solutions for your requirements.
               <br />
-              At <b>Shri Satya Technologies</b>, we focus on creating customer-oriented software applications. Our development team examines and analyzes the existing IT processes of the clients, performing gap analysis to ensure complete compatibility between existing systems and custom-developed applications. The applications are designed, tested, and deployed to the complete satisfaction of the clients.
+              At <b>ByteVision Technologies</b>, we focus on creating customer-oriented software applications. Our development team examines and analyzes the existing IT processes of the clients, performing gap analysis to ensure complete compatibility between existing systems and custom-developed applications. The applications are designed, tested, and deployed to the complete satisfaction of the clients.
             </p>
           </motion.div>
           <motion.div

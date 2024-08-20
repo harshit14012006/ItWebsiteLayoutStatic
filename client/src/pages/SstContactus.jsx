@@ -54,7 +54,7 @@ function SstContactus() {
             >
               <FaPhone className="mb-4 text-3xl text-blue-600" />
               <h3 className="mb-2 text-2xl font-semibold text-gray-900">Phone</h3>
-              <p className="text-gray-700">+91 92541 47455</p>
+              <p className="text-gray-700">+91 98964 *****</p>
             </motion.div>
 
             {/* Address Card */}
@@ -80,7 +80,7 @@ function SstContactus() {
             >
               <FaEnvelope className="mb-4 text-3xl text-blue-600" />
               <h3 className="mb-2 text-2xl font-semibold text-gray-900">Email</h3>
-              <p className="text-gray-700">info@shrisatyait.com</p>
+              <p className="text-gray-700">**********.com</p>
             </motion.div>
           </section>
 

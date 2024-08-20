@@ -115,8 +115,8 @@ function SstCareer() {
               <span>Submit Your Updated Resumes</span>
             </h2>
             <p className="text-lg text-gray-800">
-              <a href="mailto:resume@shrisatyait.com" className="inline-block px-4 py-2 text-white bg-gray-700 rounded-lg">
-                Email Us: resume@shrisatyait.com
+              <a href="mailto:**********.com" className="inline-block px-4 py-2 text-white bg-gray-700 rounded-lg">
+                Email Us: *************.com
               </a>
             </p>
           </section>
@@ -133,7 +133,7 @@ function SstCareer() {
             </h2>
             <p className="text-lg text-gray-800">
               <a href="tel:+919254147455" className="inline-block px-4 py-2 text-white bg-gray-700 rounded-lg">
-                Help Number: +91 92541 47455
+                Help Number: +91 98964 *****
               </a>
             </p>
             <p className="mt-2 text-lg text-gray-800">
