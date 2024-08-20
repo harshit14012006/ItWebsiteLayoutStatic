@@ -1,0 +1,122 @@
+/* SstHomeServices.css */
+.relative {
+    position: relative;
+  }
+  
+  a.overflow-hidden {
+    overflow: hidden;
+  }
+  
+  a.flex {
+    display: flex;
+  }
+  
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+  
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+  
+  .block {
+    display: block;
+  }
+  
+  a.bg-white {
+    background-color: #ffffff;
+  }
+  
+  a.rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  a.shadow-lg {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  a.overflow-hidden {
+    overflow: hidden;
+  }
+  
+  a.h-full {
+    height: 100%;
+  }
+  
+  a.flex-1 {
+    flex: 1 1 auto;
+  }
+  
+  a.text-xl {
+    font-size: 1.25rem;
+  }
+  
+  a.font-semibold {
+    font-weight: 600;
+  }
+  
+  a.text-gray-700 {
+    color: #4a5568;
+  }
+  
+  a.text-blue-500 {
+    color: #3182ce;
+  }
+  
+  a.font-medium {
+    font-weight: 500;
+  }
+  
+  a.bg-cover {
+    background-size: cover;
+  }
+  
+  a.bg-center {
+    background-position: center;
+  }
+  
+  a.h-48 {
+    height: 12rem;
+  }
+  
+  a.w-full {
+    width: 100%;
+  }
+  
+  a.w-64 {
+    width: 16rem;
+  }
+  
+  a.w-72 {
+    width: 18rem;
+  }
+  
+  a.w-80 {
+    width: 20rem;
+  }
+  
+  a.w-96 {
+    width: 24rem;
+  }
+  
+  a.p-4 {
+    padding: 1rem;
+  }
+  
+ a.inline-block {
+    display: inline-block;
+  }
+  
+  a.sm\:w-72 {
+    width: 18rem;
+  }
+  
+  a.md\:w-80 {
+    width: 20rem;
+  }
+  
+  a.lg\:w-96 {
+    width: 24rem;
+  }
+  
